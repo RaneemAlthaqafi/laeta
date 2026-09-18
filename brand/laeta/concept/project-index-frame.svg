@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72" fill="none" aria-hidden="true">
+  <!-- LAETA concept — project index frame: number rail with accent tick -->
+  <rect id="la-pif-tick" x="0" y="8" width="2" height="56" fill="currentColor"/>
+  <path id="la-pif-base" d="M14 64 H226" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+  <path id="la-pif-corner" d="M226 8 H238 V20" stroke="currentColor" stroke-width="1.2"/>
+</svg>

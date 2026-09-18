@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none" aria-hidden="true">
+  <!-- LAETA concept — abstract floor-plan linework A: rooms, threshold, door swing -->
+  <path id="la-fp-a-walls" d="M8 8 H392 V292 H8 Z M8 120 H150 M198 120 H392 M240 120 V292" stroke="currentColor" stroke-width="1.2"/>
+  <path id="la-fp-a-door" d="M150 120 A48 48 0 0 1 198 168" stroke="currentColor" stroke-width="0.8" opacity="0.6"/>
+  <rect id="la-fp-a-column" x="236" y="116" width="8" height="8" fill="currentColor"/>
+</svg>

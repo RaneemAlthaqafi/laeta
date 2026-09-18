@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none" aria-hidden="true">
+  <!-- LAETA concept — abstract floor-plan linework B: section cut with offset opening -->
+  <path id="la-fp-b-outline" d="M8 40 H240 M280 40 H392 M8 40 V260 H392 V40" stroke="currentColor" stroke-width="1.2"/>
+  <path id="la-fp-b-grid" d="M110 40 V260 M110 150 H392" stroke="currentColor" stroke-width="0.8" opacity="0.5"/>
+  <rect id="la-fp-b-tick" x="240" y="36" width="40" height="2" fill="currentColor" opacity="0.8"/>
+</svg>

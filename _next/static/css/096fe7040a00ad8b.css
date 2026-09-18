@@ -1,0 +1,1 @@
+.ca-study{font-family:var(--font-thmanyah),system-ui,sans-serif}.study-bar{position:fixed;inset-block-end:12px;inset-inline-end:12px;z-index:60;display:flex;gap:6px}.study-bar button{font:500 10px/1 var(--font-thmanyah),system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase;padding:8px 10px;background:#141412;color:#fcfcfa;opacity:.8}.study-bar button:hover{opacity:1}

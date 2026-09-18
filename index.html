@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Laeta Interior — Private Digital Concept</title>
+    <script>
+      // Root redirect: honour the stored language preference, default to /en.
+      (function () {
+        var locale = 'en';
+        try {
+          var stored = localStorage.getItem('laeta-locale');
+          if (stored === 'ar' || stored === 'en') locale = stored;
+        } catch (e) {}
+        window.location.replace('/' + locale + '/');
+      })();
+    </script>
+    <noscript><meta http-equiv="refresh" content="0; url=/en/" /></noscript>
+  </head>
+  <body>
+    <p><a href="/en/">English</a> · <a href="/ar/">العربية</a></p>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 320" fill="none" aria-hidden="true">
+  <!-- LAETA concept — RFQ drawer line detail: quiet vertical continuous line -->
+  <path id="la-rfq-line" d="M60 -8 C 60 60 24 84 24 140 S 84 200 84 256 c 0 32 -18 48 -36 72" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" opacity="0.5"/>
+</svg>

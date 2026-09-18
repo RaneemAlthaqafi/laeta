@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 700" fill="none" aria-hidden="true">
+  <!-- LAETA concept — Spatial Aperture, mobile vertical threshold frame -->
+  <rect id="la-ap-m-outer" x="3" y="3" width="384" height="694" stroke="currentColor" stroke-width="1.5"/>
+  <path id="la-ap-m-inner" d="M20 3 V640 H310" stroke="currentColor" stroke-width="1" opacity="0.55"/>
+  <rect id="la-ap-m-tick" x="0" y="70" width="3" height="110" fill="currentColor"/>
+  <path id="la-ap-m-corner-a" d="M368 3 H387 V22" stroke="currentColor" stroke-width="1.5"/>
+  <path id="la-ap-m-corner-b" d="M22 697 H3 V678" stroke="currentColor" stroke-width="1.5"/>
+</svg>

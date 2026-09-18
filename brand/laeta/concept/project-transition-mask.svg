@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+  <!-- LAETA concept — project transition mask study: aperture reveal (used in code as clip-path inset animation) -->
+  <defs>
+    <clipPath id="la-ptm-reveal">
+      <rect x="0" y="0" width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="100" height="100" fill="currentColor" clip-path="url(#la-ptm-reveal)" opacity="0.12"/>
+  <path d="M6 0 V88 H74" stroke="currentColor" stroke-width="0.4" fill="none" opacity="0.6"/>
+</svg>

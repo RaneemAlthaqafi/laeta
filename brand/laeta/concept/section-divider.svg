@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" fill="none" preserveAspectRatio="none" aria-hidden="true">
+  <!-- LAETA concept — section divider: interrupted architectural rule -->
+  <path id="la-div-a" d="M0 12 H520" stroke="currentColor" stroke-width="1"/>
+  <path id="la-div-b" d="M560 12 H1200" stroke="currentColor" stroke-width="1"/>
+  <rect id="la-div-tick" x="532" y="4" width="16" height="2" fill="currentColor"/>
+</svg>
